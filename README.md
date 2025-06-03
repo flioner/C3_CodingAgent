@@ -136,7 +136,7 @@ dataset = load_dataset("dataset_name")
 
 ## Video Presentation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d53niIlK13w" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+[![Watch the Video](./Presentation/C3_FinalPresentation_Team33.png)](https://youtu.be/d53niIlK13w)
 
 ## Presentation PDF
 
