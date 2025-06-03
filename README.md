@@ -136,8 +136,8 @@ dataset = load_dataset("dataset_name")
 
 ## Video Presentation
 
-[![Watch the Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d53niIlK13w" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
 
 ## Presentation PDF
 
-You can download the presentation PDF here: [Presentation.pdf](./Presentation.pdf)
+You can download the presentation PDF here: [Presentation.pdf](./Presentation/C3_FinalPresentation_Team33.pdf)
